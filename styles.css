@@ -1,0 +1,21 @@
+.titulo{
+    text-align: center;
+    font-family: Arial;
+    font-size: 42px;
+    color: #efac1a;
+}
+
+nav ul{
+    list-style: none;  /* saca las viñetas */
+    display: flex;     /* los pone en fila */
+    gap: 20px;
+    font-family: Arial;
+    font-size: 23px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+nav a{
+    text-decoration: none;
+    color: #333333;
+}
